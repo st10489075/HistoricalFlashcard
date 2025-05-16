@@ -74,6 +74,7 @@ class Review : ComponentActivity() {
 
                     }) {
                     Text(text = "Exit")
+                    
 
                 }
             }
